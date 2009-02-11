@@ -1,0 +1,570 @@
+# Logfile created on Wed Feb 11 11:04:42 +0000 2009 by /
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'NpmK') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'h5LH') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'nQtl') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'k0o9') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'y_Nr') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '-WSA') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'FHMt') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'BeJ5') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'bDvM') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'S24A') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Qjdm') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'q8E5') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'pOnW') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'UBuH') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'blnV') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'vmaF') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Xqhz') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'CMkU') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'GcS-') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'qv16') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'brlI') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'AePU') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'ybUQ') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '-Jya') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'TjJv') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'l1eZ') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'nRhJ') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'gUv1') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'q5Lf') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'i3YL') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'lFgc') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'w7CV') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'p_-v') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'uKDP') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'avrl') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'RevH') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'z75I') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'BAua') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'HPdo') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'TY83') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'GTyo') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'M6I7') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'aNW3') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'goDn') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'J3ia') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'NT_8') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'D8WQ') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'g8wk') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'E_tk') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'CirM') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Q8Ci') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'aAQ6') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'nPMj') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'iTlV') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'xjV1') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'NIQX') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '-Hol') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'siVv') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Tajo') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'bR0t') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'k4NB') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'MXxh') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'beFu') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '-wX4') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'mfQq') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'oltb') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'svPm') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'WwPA') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'a18L') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'L9JZ') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'dSNG') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'JHVl') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'O2iI') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '-D83') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'REFQ') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'PV19') LIMIT 1[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'RabY') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.5ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:12', NULL, '2009-02-11 11:27:12')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'LQtz') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'gK39') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:12', NULL, '2009-02-11 11:27:12')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'M0_6') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:12', NULL, '2009-02-11 11:27:12')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'FtpZ') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:12', NULL, '2009-02-11 11:27:12')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'xQIi') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:12', NULL, '2009-02-11 11:27:12')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'U0jn') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:15', NULL, '2009-02-11 11:27:15')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Kwc5') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'OuHc') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:15', NULL, '2009-02-11 11:27:15')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'PYGp') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:15', NULL, '2009-02-11 11:27:15')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'DLou') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:15', NULL, '2009-02-11 11:27:15')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'iU1t') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:15', NULL, '2009-02-11 11:27:15')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'aMvm') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:18', NULL, '2009-02-11 11:27:18')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'nYZr') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'S1zp') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:18', NULL, '2009-02-11 11:27:18')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Init') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:18', NULL, '2009-02-11 11:27:18')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'exbm') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:18', NULL, '2009-02-11 11:27:18')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'gnBa') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:18', NULL, '2009-02-11 11:27:18')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'O0Ul') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.5ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:21', NULL, '2009-02-11 11:27:21')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'SgC7') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'T4aF') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:21', NULL, '2009-02-11 11:27:21')[0m
+  [4;35;1mTestModel Load (0.6ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'RAtI') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:21', NULL, '2009-02-11 11:27:21')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'o7y_') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:21', NULL, '2009-02-11 11:27:21')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'bU9t') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:21', NULL, '2009-02-11 11:27:21')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'MPLv') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:24', NULL, '2009-02-11 11:27:24')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'lgkV') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'MZH6') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:24', NULL, '2009-02-11 11:27:24')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'QkXr') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:24', NULL, '2009-02-11 11:27:24')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'XKJE') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:24', NULL, '2009-02-11 11:27:24')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'K21-') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:24', NULL, '2009-02-11 11:27:24')[0m
+  [4;36;1mTestModel Load (0.4ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Uq0a') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.5ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:27', NULL, '2009-02-11 11:27:27')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'ehpO') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'sXWr') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:28', NULL, '2009-02-11 11:27:28')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'DKjr') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:28', NULL, '2009-02-11 11:27:28')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'wYs4') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:28', NULL, '2009-02-11 11:27:28')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'rdy9') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:28', NULL, '2009-02-11 11:27:28')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'A6De') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:31', NULL, '2009-02-11 11:27:31')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Oh6C') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'knoO') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:31', NULL, '2009-02-11 11:27:31')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Hzvd') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:31', NULL, '2009-02-11 11:27:31')[0m
+  [4;35;1mTestModel Load (0.1ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'v3E7') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:31', NULL, '2009-02-11 11:27:31')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'jYVI') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:31', NULL, '2009-02-11 11:27:31')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'okOy') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:34', NULL, '2009-02-11 11:27:34')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Rtrd') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'CfI8') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:34', NULL, '2009-02-11 11:27:34')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'cIOs') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:34', NULL, '2009-02-11 11:27:34')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'gEoH') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:34', NULL, '2009-02-11 11:27:34')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'VNHq') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:34', NULL, '2009-02-11 11:27:34')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Alc1') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:37', NULL, '2009-02-11 11:27:37')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'CxAK') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'y6B1') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:37', NULL, '2009-02-11 11:27:37')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'nrTP') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:37', NULL, '2009-02-11 11:27:37')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'xqMu') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:37', NULL, '2009-02-11 11:27:37')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'E0Yc') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:37', NULL, '2009-02-11 11:27:37')[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:46', NULL, '2009-02-11 11:27:46')[0m
+  [4;35;1mTestModel Load (0.1ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'hcAv') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.6ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:46', NULL, '2009-02-11 11:27:46')[0m
+  [4;35;1mTestModel Create (0.5ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:46', NULL, '2009-02-11 11:27:46')[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:46', NULL, '2009-02-11 11:27:46')[0m
+  [4;35;1mTestModel Create (0.5ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:46', NULL, '2009-02-11 11:27:46')[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:49', NULL, '2009-02-11 11:27:49')[0m
+  [4;35;1mTestModel Load (0.1ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'B3Az') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:50', NULL, '2009-02-11 11:27:50')[0m
+  [4;35;1mTestModel Create (0.3ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:50', NULL, '2009-02-11 11:27:50')[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:50', NULL, '2009-02-11 11:27:50')[0m
+  [4;35;1mTestModel Create (0.5ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:50', NULL, '2009-02-11 11:27:50')[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:58', NULL, '2009-02-11 11:27:58')[0m
+  [4;35;1mTestModel Load (0.1ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'bB_1') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:58', NULL, '2009-02-11 11:27:58')[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:58', NULL, '2009-02-11 11:27:58')[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:58', NULL, '2009-02-11 11:27:58')[0m
+  [4;35;1mTestModel Create (0.3ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:27:58', NULL, '2009-02-11 11:27:58')[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:01', NULL, '2009-02-11 11:28:01')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'uWaH') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:01', NULL, '2009-02-11 11:28:01')[0m
+  [4;35;1mTestModel Create (0.5ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:01', NULL, '2009-02-11 11:28:01')[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:01', NULL, '2009-02-11 11:28:01')[0m
+  [4;35;1mTestModel Create (0.6ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:01', NULL, '2009-02-11 11:28:01')[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:20', NULL, '2009-02-11 11:28:20')[0m
+  [4;35;1mTestModel Load (0.1ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'g576') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:20', NULL, '2009-02-11 11:28:20')[0m
+  [4;35;1mTestModel Create (0.5ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:20', NULL, '2009-02-11 11:28:20')[0m
+  [4;36;1mTestModel Create (10.1ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:20', NULL, '2009-02-11 11:28:20')[0m
+  [4;35;1mTestModel Create (0.3ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:20', NULL, '2009-02-11 11:28:20')[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:23', NULL, '2009-02-11 11:28:23')[0m
+  [4;35;1mTestModel Load (0.1ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Dk2m') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:23', NULL, '2009-02-11 11:28:23')[0m
+  [4;35;1mTestModel Create (0.5ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:23', NULL, '2009-02-11 11:28:23')[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:23', NULL, '2009-02-11 11:28:23')[0m
+  [4;35;1mTestModel Create (0.5ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:23', NULL, '2009-02-11 11:28:23')[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:26', NULL, '2009-02-11 11:28:26')[0m
+  [4;35;1mTestModel Load (0.1ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '_YWM') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.6ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:26', NULL, '2009-02-11 11:28:26')[0m
+  [4;35;1mTestModel Create (0.3ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:26', NULL, '2009-02-11 11:28:26')[0m
+  [4;36;1mTestModel Create (0.6ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:26', NULL, '2009-02-11 11:28:26')[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:26', NULL, '2009-02-11 11:28:26')[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:29', NULL, '2009-02-11 11:28:29')[0m
+  [4;35;1mTestModel Load (0.1ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '0_PD') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:29', NULL, '2009-02-11 11:28:29')[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:29', NULL, '2009-02-11 11:28:29')[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:29', NULL, '2009-02-11 11:28:29')[0m
+  [4;35;1mTestModel Create (0.5ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:29', NULL, '2009-02-11 11:28:29')[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:32', NULL, '2009-02-11 11:28:32')[0m
+  [4;35;1mTestModel Load (0.1ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'HQr8') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:32', NULL, '2009-02-11 11:28:32')[0m
+  [4;35;1mTestModel Create (0.5ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:32', NULL, '2009-02-11 11:28:32')[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:32', NULL, '2009-02-11 11:28:32')[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:32', NULL, '2009-02-11 11:28:32')[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:35', NULL, '2009-02-11 11:28:35')[0m
+  [4;35;1mTestModel Load (0.1ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'sBzl') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:35', NULL, '2009-02-11 11:28:35')[0m
+  [4;35;1mTestModel Create (0.5ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:35', NULL, '2009-02-11 11:28:35')[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:35', NULL, '2009-02-11 11:28:35')[0m
+  [4;35;1mTestModel Create (0.3ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:35', NULL, '2009-02-11 11:28:35')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '0-zF') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:39', '0-zF', '2009-02-11 11:28:39')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'l7aC') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'tkfZ') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:39', 'tkfZ', '2009-02-11 11:28:39')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '_bt4') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:39', '_bt4', '2009-02-11 11:28:39')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'wZ74') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:39', 'wZ74', '2009-02-11 11:28:39')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'mEDC') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:39', 'mEDC', '2009-02-11 11:28:39')[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '0gQV') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:42', '0gQV', '2009-02-11 11:28:42')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'NHAT') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'k8A4') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:42', 'k8A4', '2009-02-11 11:28:42')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Nt3P') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:42', 'Nt3P', '2009-02-11 11:28:42')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'USFJ') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.8ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:42', 'USFJ', '2009-02-11 11:28:42')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Mlhe') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:42', 'Mlhe', '2009-02-11 11:28:42')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'j8sN') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:45', 'j8sN', '2009-02-11 11:28:45')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'KOGU') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '-_ZO') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:45', '-_ZO', '2009-02-11 11:28:45')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Xs2u') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:45', 'Xs2u', '2009-02-11 11:28:45')[0m
+  [4;35;1mTestModel Load (0.1ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'P_Fp') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:45', 'P_Fp', '2009-02-11 11:28:45')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'cgCt') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:45', 'cgCt', '2009-02-11 11:28:45')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'y7e9') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.9ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:48', 'y7e9', '2009-02-11 11:28:48')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'JDGF') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'RsBZ') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:48', 'RsBZ', '2009-02-11 11:28:48')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'P9Jf') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:48', 'P9Jf', '2009-02-11 11:28:48')[0m
+  [4;35;1mTestModel Load (0.1ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Fqmk') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:48', 'Fqmk', '2009-02-11 11:28:48')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'pcV6') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:48', 'pcV6', '2009-02-11 11:28:48')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '_PBQ') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:51', '_PBQ', '2009-02-11 11:28:51')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'K1uV') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Q-x9') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:51', 'Q-x9', '2009-02-11 11:28:51')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Xf5O') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:51', 'Xf5O', '2009-02-11 11:28:51')[0m
+  [4;35;1mTestModel Load (0.1ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'cJa1') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:51', 'cJa1', '2009-02-11 11:28:51')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'TxXj') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:51', 'TxXj', '2009-02-11 11:28:51')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'ZHjA') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:54', 'ZHjA', '2009-02-11 11:28:54')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'YFAd') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'lIRb') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:54', 'lIRb', '2009-02-11 11:28:54')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'yGNR') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:54', 'yGNR', '2009-02-11 11:28:54')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'MXim') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:54', 'MXim', '2009-02-11 11:28:54')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'w2Dk') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:54', 'w2Dk', '2009-02-11 11:28:54')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'uJhs') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:58', 'uJhs', '2009-02-11 11:28:58')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'bYpM') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'e1yz') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:58', 'e1yz', '2009-02-11 11:28:58')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'jhYx') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:58', 'jhYx', '2009-02-11 11:28:58')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'YECB') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:58', 'YECB', '2009-02-11 11:28:58')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'h8an') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:28:58', 'h8an', '2009-02-11 11:28:58')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'YR_u') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:01', 'YR_u', '2009-02-11 11:29:01')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'oSCe') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Z14a') LIMIT 1[0m
+  [4;36;1mTestModel Create (104.9ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:01', 'Z14a', '2009-02-11 11:29:01')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'i-zn') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.6ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:01', 'i-zn', '2009-02-11 11:29:01')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'BMD3') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:01', 'BMD3', '2009-02-11 11:29:01')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'bSPF') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:01', 'bSPF', '2009-02-11 11:29:01')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'AY97') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:04', 'AY97', '2009-02-11 11:29:04')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'AFLw') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'IUgO') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:04', 'IUgO', '2009-02-11 11:29:04')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'sqPW') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:04', 'sqPW', '2009-02-11 11:29:04')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'CoXs') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:04', 'CoXs', '2009-02-11 11:29:04')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'yX8o') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:04', 'yX8o', '2009-02-11 11:29:04')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'iSv8') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:07', 'iSv8', '2009-02-11 11:29:07')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'EtfJ') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'yqs2') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:07', 'yqs2', '2009-02-11 11:29:07')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Bh2z') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:07', 'Bh2z', '2009-02-11 11:29:07')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'gs4N') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:07', 'gs4N', '2009-02-11 11:29:07')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'IxHQ') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:07', 'IxHQ', '2009-02-11 11:29:07')[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'SyPT') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:10', 'SyPT', '2009-02-11 11:29:10')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'qjCR') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.9ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'R78U') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:10', 'R78U', '2009-02-11 11:29:10')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'V-BX') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:10', 'V-BX', '2009-02-11 11:29:10')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'AMi-') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.6ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:10', 'AMi-', '2009-02-11 11:29:10')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'qkHg') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:10', 'qkHg', '2009-02-11 11:29:10')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'tTJG') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:13', 'tTJG', '2009-02-11 11:29:13')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Axom') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'gtLU') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:14', 'gtLU', '2009-02-11 11:29:14')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'fKXS') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:14', 'fKXS', '2009-02-11 11:29:14')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'W1cG') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:14', 'W1cG', '2009-02-11 11:29:14')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'k0fs') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:14', 'k0fs', '2009-02-11 11:29:14')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'LyZG') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:17', 'LyZG', '2009-02-11 11:29:17')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'm5Ku') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'WD8O') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:17', 'WD8O', '2009-02-11 11:29:17')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'I7NZ') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:17', 'I7NZ', '2009-02-11 11:29:17')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'uGHp') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:17', 'uGHp', '2009-02-11 11:29:17')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'XorB') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:17', 'XorB', '2009-02-11 11:29:17')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '-v6Y') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:20', '-v6Y', '2009-02-11 11:29:20')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'mlyI') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'eFOG') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:20', 'eFOG', '2009-02-11 11:29:20')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'dlbL') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:20', 'dlbL', '2009-02-11 11:29:20')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'thqk') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:20', 'thqk', '2009-02-11 11:29:20')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '0AMo') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:20', '0AMo', '2009-02-11 11:29:20')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'VAt9') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:23', 'VAt9', '2009-02-11 11:29:23')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'yERB') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'kgzD') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:23', 'kgzD', '2009-02-11 11:29:23')[0m
+  [4;35;1mTestModel Load (0.4ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'as7u') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:23', 'as7u', '2009-02-11 11:29:23')[0m
+  [4;35;1mTestModel Load (0.5ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'QxgS') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:23', 'QxgS', '2009-02-11 11:29:23')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Hc_q') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:23', 'Hc_q', '2009-02-11 11:29:23')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'QjSC') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:27', 'QjSC', '2009-02-11 11:29:27')[0m
+  [4;36;1mTestModel Load (0.3ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'N75z') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:27', 'N75z', '2009-02-11 11:29:27')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'AWN1') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'r_E8') LIMIT 1[0m
+  [4;36;1mTestModel Create (54.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:27', 'r_E8', '2009-02-11 11:29:27')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'oW_G') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:27', 'oW_G', '2009-02-11 11:29:27')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'pL4t') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:27', 'pL4t', '2009-02-11 11:29:27')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'tbo9') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:27', 'tbo9', '2009-02-11 11:29:27')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'QbaV') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:30', 'QbaV', '2009-02-11 11:29:30')[0m
+  [4;36;1mTestModel Load (0.3ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'WiOz') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:30', 'WiOz', '2009-02-11 11:29:30')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'y8xj') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Y1Cl') LIMIT 1[0m
+  [4;36;1mTestModel Create (54.6ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:30', 'Y1Cl', '2009-02-11 11:29:30')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'gfdV') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:30', 'gfdV', '2009-02-11 11:29:30')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'xM9p') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:30', 'xM9p', '2009-02-11 11:29:30')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'D7qN') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:30', 'D7qN', '2009-02-11 11:29:30')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'pNjg') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:33', 'pNjg', '2009-02-11 11:29:33')[0m
+  [4;36;1mTestModel Load (0.3ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'y_k5') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:33', 'y_k5', '2009-02-11 11:29:33')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'igPE') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'MBen') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:33', 'MBen', '2009-02-11 11:29:33')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'SW1t') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:33', 'SW1t', '2009-02-11 11:29:33')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'H-8i') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:33', 'H-8i', '2009-02-11 11:29:33')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'TFUY') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:33', 'TFUY', '2009-02-11 11:29:33')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Y-X7') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:36', 'Y-X7', '2009-02-11 11:29:36')[0m
+  [4;36;1mTestModel Load (0.3ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'G3tw') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:36', 'G3tw', '2009-02-11 11:29:36')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'M2vW') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'JNr9') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:36', 'JNr9', '2009-02-11 11:29:36')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'T-PK') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:36', 'T-PK', '2009-02-11 11:29:36')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'kQnX') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:37', 'kQnX', '2009-02-11 11:29:37')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'CfOK') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:37', 'CfOK', '2009-02-11 11:29:37')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Me6k') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:40', 'Me6k', '2009-02-11 11:29:40')[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'eBHd') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.2ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:40', 'eBHd', '2009-02-11 11:29:40')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'WE_y') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'yNqz') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.6ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:40', 'yNqz', '2009-02-11 11:29:40')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Qbgt') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:40', 'Qbgt', '2009-02-11 11:29:40')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'K2hU') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:40', 'K2hU', '2009-02-11 11:29:40')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'b2qj') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:40', 'b2qj', '2009-02-11 11:29:40')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'MoJy') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:43', 'MoJy', '2009-02-11 11:29:43')[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Lib7') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:43', 'Lib7', '2009-02-11 11:29:43')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'tGz7') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'A1K3') LIMIT 1[0m
+  [4;36;1mTestModel Create (1.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:43', 'A1K3', '2009-02-11 11:29:43')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'pyk5') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:43', 'pyk5', '2009-02-11 11:29:43')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Y29m') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:43', 'Y29m', '2009-02-11 11:29:43')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'XWwb') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:43', 'XWwb', '2009-02-11 11:29:43')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'O0YN') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:46', 'O0YN', '2009-02-11 11:29:46')[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'b6vL') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.3ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:46', 'b6vL', '2009-02-11 11:29:46')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'f2em') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'UZ3n') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:46', 'UZ3n', '2009-02-11 11:29:46')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'bP0E') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:46', 'bP0E', '2009-02-11 11:29:46')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'uC9c') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:46', 'uC9c', '2009-02-11 11:29:46')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'tVc2') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:46', 'tVc2', '2009-02-11 11:29:46')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'CSLm') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:49', 'CSLm', '2009-02-11 11:29:49')[0m
+  [4;36;1mTestModel Load (0.3ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '0JR8') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:49', '0JR8', '2009-02-11 11:29:49')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'IBMc') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'paRg') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:49', 'paRg', '2009-02-11 11:29:49')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'zP9J') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:49', 'zP9J', '2009-02-11 11:29:49')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'EGJM') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:49', 'EGJM', '2009-02-11 11:29:49')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'oMg5') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:49', 'oMg5', '2009-02-11 11:29:49')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'aV-2') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.6ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:52', 'aV-2', '2009-02-11 11:29:52')[0m
+  [4;36;1mTestModel Load (0.4ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Y3m6') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.3ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:52', 'Y3m6', '2009-02-11 11:29:52')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'xtFk') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'WY_c') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.7ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:52', 'WY_c', '2009-02-11 11:29:52')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'ROYL') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:52', 'ROYL', '2009-02-11 11:29:52')[0m
+  [4;35;1mTestModel Load (0.4ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'cq4_') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:52', 'cq4_', '2009-02-11 11:29:52')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Grx0') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:52', 'Grx0', '2009-02-11 11:29:52')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '_v2D') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:55', '_v2D', '2009-02-11 11:29:55')[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'QhKa') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:55', 'QhKa', '2009-02-11 11:29:55')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'mY0U') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'K6LE') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.8ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:55', 'K6LE', '2009-02-11 11:29:55')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'StWD') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:55', 'StWD', '2009-02-11 11:29:55')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'S6lL') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:56', 'S6lL', '2009-02-11 11:29:56')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Hh1w') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.5ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:56', 'Hh1w', '2009-02-11 11:29:56')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'Zdq6') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.3ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:59', 'Zdq6', '2009-02-11 11:29:59')[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'CqKf') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.3ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:59', 'CqKf', '2009-02-11 11:29:59')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '0i9l') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'a_gt') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:59', 'a_gt', '2009-02-11 11:29:59')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'I8j4') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:59', 'I8j4', '2009-02-11 11:29:59')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = '-hTK') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:59', '-hTK', '2009-02-11 11:29:59')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'nuIs') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.2ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:29:59', 'nuIs', '2009-02-11 11:29:59')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'cBUp') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.6ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:30:02', 'cBUp', '2009-02-11 11:30:02')[0m
+  [4;36;1mTestModel Load (0.3ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'bNPc') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.3ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:30:02', 'bNPc', '2009-02-11 11:30:02')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'iH93') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.7ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'v_7G') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:30:02', 'v_7G', '2009-02-11 11:30:02')[0m
+  [4;35;1mTestModel Load (0.3ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'GUKg') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:30:02', 'GUKg', '2009-02-11 11:30:02')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'hD-C') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:30:02', 'hD-C', '2009-02-11 11:30:02')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'qk8z') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:30:02', 'qk8z', '2009-02-11 11:30:02')[0m
+  [4;36;1mTestModel Load (0.1ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'rqyL') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.3ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:30:05', 'rqyL', '2009-02-11 11:30:05')[0m
+  [4;36;1mTestModel Load (0.3ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'HE4q') LIMIT 1[0m
+  [4;35;1mTestModel Create (0.4ms)[0m   [0mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:30:05', 'HE4q', '2009-02-11 11:30:05')[0m
+  [4;36;1mTestModel Load (0.2ms)[0m   [0;1mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'OKjN') LIMIT 1[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'pilo') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:30:05', 'pilo', '2009-02-11 11:30:05')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'byRF') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:30:05', 'byRF', '2009-02-11 11:30:05')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'IJuH') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.3ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:30:05', 'IJuH', '2009-02-11 11:30:05')[0m
+  [4;35;1mTestModel Load (0.2ms)[0m   [0mSELECT * FROM "boojas" WHERE ("boojas"."shortcode_url" = 'fK48') LIMIT 1[0m
+  [4;36;1mTestModel Create (0.4ms)[0m   [0;1mINSERT INTO "boojas" ("updated_at", "shortcode_url", "created_at") VALUES('2009-02-11 11:30:05', 'fK48', '2009-02-11 11:30:05')[0m
