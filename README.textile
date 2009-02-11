@@ -30,7 +30,7 @@ h3. Model:
 class Post < ActiveRecord::Base
   shortcode_url
 end
-</code><pre>
+</code></pre>
 
 h3. Usage:
 
