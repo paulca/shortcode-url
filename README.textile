@@ -1,5 +1,4 @@
-ShortcodeUrl
-============
+h1. ShortcodeUrl
 
 A simple Rails plugin to generate a unique code, for use in shorturl style situations.
 
@@ -7,10 +6,9 @@ You just need a field called 'shortcode_url' on your database table.
 
 Nice and handy, nice and simple.
 
-Example
-=======
+h2. Example
 
-Migration:
+h3. Migration:
 
 <pre><code>
 class AddShortcodeUrl< ActiveRecord::Migration
@@ -26,15 +24,21 @@ class AddShortcodeUrl< ActiveRecord::Migration
 end
 </pre></code>
 
+h3. Model:
+
 <pre><code>
 class Post < ActiveRecord::Base
   shortcode_url
 end
 
-@post = Post.new
+h3. Usage:
+
+@post = Post.new(:title => 'Bang!')
 @post.save
 @post.shortcode_url
 # => 'MMhi'
+Post.find_by_shortcode('MMhi)
+# => <Post: @title => 'Bang!'>
 </code></pre>
 
 
