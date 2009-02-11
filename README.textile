@@ -30,9 +30,11 @@ h3. Model:
 class Post < ActiveRecord::Base
   shortcode_url
 end
+</code><pre>
 
 h3. Usage:
 
+<pre><code>
 @post = Post.new(:title => 'Bang!')
 @post.save
 @post.shortcode_url
