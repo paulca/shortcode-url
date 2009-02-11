@@ -43,5 +43,10 @@ Post.find_by_shortcode('MMhi)
 # => <Post: @title => 'Bang!'>
 </code></pre>
 
+h2. About me
+
+I'm Paul Campbell. I'm a partner in Contrast ("http://www.contrast.ie":http://www.contrast.ie) and I work on Exceptional, a Ruby on Rails exception tracker ("http://getexceptional.com":http://getexceptional.com).
+
+Follow me on Twitter "http://twitter.com/paulca":http://twitter.com/paulca
 
 Copyright (c) 2009 Paul Campbell, released under the MIT license
