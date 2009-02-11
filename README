@@ -10,6 +10,22 @@ Nice and handy, nice and simple.
 Example
 =======
 
+Migration:
+
+<pre><code>
+class AddShortcodeUrl< ActiveRecord::Migration
+  def self.up
+    add_column :posts, :shortcode_url, :string
+    add_index :posts, :shortcode_url
+  end
+
+  def self.down
+    remove_index :posts, :shortcode_url
+    remove_column :posts, :shortcode_url
+  end
+end
+</pre></code>
+
 <pre><code>
 class Post < ActiveRecord::Base
   shortcode_url
