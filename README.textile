@@ -53,7 +53,7 @@ end
 
 h2. About me
 
-I'm Paul Campbell. I'm an avid Ruby on Rails web developer. Follow my ramblings at http://www.pabcas.com
+I'm Paul Campbell. I'm an avid Ruby on Rails web developer. Follow my ramblings at "http://www.pabcas.com":http://www.pabcas.com
 
 Follow me on Twitter "http://twitter.com/paulca":http://twitter.com/paulca
 
