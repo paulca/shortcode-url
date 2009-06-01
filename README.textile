@@ -43,9 +43,17 @@ Post.find_by_shortcode('MMhi)
 # => <Post: @title => 'Bang!'>
 </code></pre>
 
+If you want to specify the length of the shortcode, you can add a length attribute:
+
+<pre><code>
+class Post < ActiveRecord::Base
+  shortcode_url :length => 10
+end
+</code></pre>
+
 h2. About me
 
-I'm Paul Campbell. I'm a partner in Contrast ("http://www.contrast.ie":http://www.contrast.ie) and I work on Exceptional, a Ruby on Rails exception tracker ("http://getexceptional.com":http://getexceptional.com).
+I'm Paul Campbell. I'm an avid Ruby on Rails web developer. Follow my ramblings at http://www.pabcas.com
 
 Follow me on Twitter "http://twitter.com/paulca":http://twitter.com/paulca
 
