@@ -1,7 +1,7 @@
 require File.dirname(__FILE__) + '/spec_helper'
+require File.dirname(__FILE__) + '/../lib/shortcode_url'
 
 class TestModel < ActiveRecord::Base
-  include ShortcodeUrl
   shortcode_url
   
   attr_accessor :beeny
@@ -44,5 +44,23 @@ describe "a model with a shortcode url" do
   
   it "should still have an after_initialize" do
     @test.beeny.should == 'yay!'
+  end
+end
+
+class TestLongModel < ActiveRecord::Base
+  shortcode_url :length => 20
+  
+  def self.table_name
+    'boojas'
+  end
+end
+
+describe "a long version" do
+  before do
+    @test = TestLongModel.create
+  end
+
+  it "should have a really long shortcode_url" do
+    @test.shortcode_url.size.should == 20
   end
 end
