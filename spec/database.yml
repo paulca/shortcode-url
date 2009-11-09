@@ -1,0 +1,3 @@
+sqlite:
+  :adapter: sqlite
+  :dbfile: vendor/plugins/shortcode-url/spec/yaffle_plugin.sqlite.db

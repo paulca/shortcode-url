@@ -1,14 +1,11 @@
 require File.dirname(__FILE__) + '/spec_helper'
 require File.dirname(__FILE__) + '/../lib/shortcode_url'
 
+load_schema
+
 class TestModel < ActiveRecord::Base
   shortcode_url
-  
   attr_accessor :beeny
-  
-  def self.table_name
-    'boojas'
-  end
   
   def after_initialize
     self.beeny ||= 'yay!'
@@ -48,11 +45,10 @@ describe "a model with a shortcode url" do
 end
 
 class TestLongModel < ActiveRecord::Base
-  shortcode_url :length => 20
-  
   def self.table_name
-    'boojas'
+    'test_models'
   end
+  shortcode_url :length => 20
 end
 
 describe "a long version" do
@@ -62,5 +58,24 @@ describe "a long version" do
 
   it "should have a really long shortcode_url" do
     @test.shortcode_url.size.should == 20
+  end
+end
+
+class TestOtherField < ActiveRecord::Base
+  def self.table_name
+    'test_models'
+  end
+  shortcode_url :shortcode_url, :other_field, :another_field, :length => 20
+end
+
+describe "a long version" do
+  before do
+    @test = TestOtherField.create
+  end
+
+  it "should have created a shortcode url on other fields" do
+    @test.shortcode_url.should be_a_kind_of(String)
+    @test.other_field.should be_a_kind_of(String)
+    @test.another_field.should be_a_kind_of(String)
   end
 end
