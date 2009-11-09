@@ -43,6 +43,22 @@ Post.find_by_shortcode('MMhi)
 # => <Post: @title => 'Bang!'>
 </code></pre>
 
+Want a different column name? Add it as an argument
+
+<pre><code>
+class Post < ActiveRecord::Base
+  shortcode_url :secret_url
+end
+</code></pre>
+
+You can add as many of these as you like to get more than one shortcode per model:
+
+<pre><code>
+class Post < ActiveRecord::Base
+  shortcode_url :secret_url, :another_secret_url
+end
+</code></pre>
+
 If you want to specify the length of the shortcode, you can add a length attribute:
 
 <pre><code>
